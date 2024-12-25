@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Varad Deshpande</h1>
 <h3 align="center">Programming Enthusiast</h3>
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m a **Full Stack Web Developer and AI Enthusiast**
 
 - 📫 How to reach me **varaddeshpande81@gmail.com**
 
