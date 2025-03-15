@@ -1,6 +1,6 @@
 <!-- <img src="banner_github.png" alt="GitHub Banner" width="100%" /> -->
 
-# 👋 Hello, I'm Varad Deshpande!   
+<h1 allign="center"> 👋 Hello, I'm Varad Deshpande!   </h1>
 🛠️ Exploring **Softwares, AI and Electronics**  
 🔬 Passionate about **Web Development, AI, VLSI and Embedded Systems**  
 💡 Currently working on: **Deployment of CNN Models on Edge AI Devices** (AI & Electronics)  
