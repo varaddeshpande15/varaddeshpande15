@@ -48,11 +48,12 @@
 <h2 align="center">🔗 Connect with Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/varaddeshpande15">💼 LinkedIn</a><br>
-  <a href="https://www.instagram.com/streak.dev">📷 Instagram</a><br>
-  <a href="https://twitter.com/dev_varad">🐦 Twitter</a><br>
-  <a href="https://varaddeshpande.netlify.app/">🌐 Portfolio</a>
+  <a href="https://www.linkedin.com/in/varaddeshpande15" style="text-decoration: none;">💼 LinkedIn</a><br>
+  <a href="https://www.instagram.com/streak.dev" style="text-decoration: none;">📷 Instagram</a><br>
+  <a href="https://twitter.com/dev_varad" style="text-decoration: none;">🐦 Twitter</a><br>
+  <a href="https://varaddeshpande.netlify.app/" style="text-decoration: none;">🌐 Portfolio</a>
 </p>
+
 
 ---
 
