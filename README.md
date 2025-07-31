@@ -3,7 +3,7 @@
 # 👋 Hello, I'm Varad Deshpande! 
 #### 🛠️ Exploring **Softwares, AI and Electronics**  
 #### 🔬 Passionate about **Web Development, AI, VLSI and Embedded Systems**  
-#### 💡 Currently working on: **AI Agents Development and Edge AI Projects 
+#### 💡 Currently working on: **AI Agents Development and Edge AI Projects** 
 #### 📚 Final-year **Electronics & Telecommunication Engineering** student at **Pune University**  
 #### 🌎 Love building **Innovative, research-driven tech solutions**  
 
