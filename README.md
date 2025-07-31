@@ -4,7 +4,7 @@
 #### 🛠️ Exploring **Softwares, AI and Electronics**  
 #### 🔬 Passionate about **Web Development, AI, VLSI and Embedded Systems**  
 #### 💡 Currently working on: **Deployment of CNN Models on Edge AI Devices** (AI & Electronics)  
-#### 📚 Third-year **Electronics & Telecommunication Engineering** student at **Pune University**  
+#### 📚 Final-year **Electronics & Telecommunication Engineering** student at **Pune University**  
 #### 🌎 Love building **Innovative, research-driven tech solutions**  
 
 ---
