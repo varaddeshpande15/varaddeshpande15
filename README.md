@@ -28,8 +28,7 @@
 - 🏍️ **Pro-Resume** – AI-powered Latex-Based Resume Generator
 - 🛠️ **Face Mask Detection System** – Optimized Edge AI deployment on Jetson Nano 
 - 🖥️ **Medimitra** – Voice Enabled Medicine Reminder    
-<!-- - 🏍️ **Smart Helmet Universal Module** – AI-powered safety & navigation device  
-- 🛠️ **Face Mask Detection System** – Optimized Edge AI deployment on Jetson Nano  
+- 🏍️ **Smart Helmet Universal Module** – AI-powered safety & navigation device  
 - 🖥️ **Resume to Job Matcher** – AI-based job recommendation system  
 - 🌐 **Self-Hosted AI Interface** – Run LLMs locally with a smooth UI   -->
 
