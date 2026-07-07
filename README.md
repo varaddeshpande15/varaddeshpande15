@@ -4,7 +4,7 @@
 #### 🛠️ Exploring **Softwares, AI and Electronics**  
 #### 🔬 Passionate about **Web Development, AI, VLSI and Embedded Systems**  
 #### 💡 Currently working on: **AI Agents Development and Edge AI Projects** 
-#### 📚 Final-year **Electronics & Telecommunication Engineering** student at **Pune University**  
+#### 📚 Software Engineer working at a Voice AI Startup
 #### 🌎 Love building **Innovative, research-driven tech solutions**  
 
 ---
