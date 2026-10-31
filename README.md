@@ -37,9 +37,6 @@
 ## 🔗 Connect with Me  
 💼 [LinkedIn](https://www.linkedin.com/in/varaddeshpande15)  
 📷 [Instagram](https://www.instagram.com/streak.dev)  
-🐦 [Twitter](https://twitter.com/dev_varad)  
-🌐 [Portfolio](https://varaddeshpande.netlify.app/)  
-
 ---
 
 ---
